@@ -26,7 +26,7 @@ Um jogador que possui o caractere `X` no tabuleiro.
 
 Um jogador que possui o caractere `Y` no tabuleiro.
 
-## Jogo.java:
+### Jogo.java:
 
 Uma classe estática que permite toda a manipulação do jogo, inclusive:
  - Jogar;
