@@ -16,7 +16,7 @@ O programa é formado de 5 classes:
 
 Uma classe abstrata que representa o jogador. Jogadores reais do jogo devem ser instanciados a partir de suas respectivas classes específicas `JogadorX` ou `JogadorO`, dependendo de qual símbolo o jogador representa no tabuleiro.
 
-Possui 2 variáveis e 3 métodos, sendo as variávei: o caractere que representa o jogador no tabuleiro (`X` ou `O`) e a sua quantidade de vitórias. Os seus métodos são: seu construtor, que recebe como parâmetro o caractere do jogador, o método `getVitorias` que retorna a variável privada de vitórias (encapsulamento) e `ganhar`, que adiciona uma vitória.
+Possui 2 variáveis e 3 métodos, sendo as variáveis: o caractere que representa o jogador no tabuleiro (`X` ou `O`) e a sua quantidade de vitórias. Os seus métodos são: seu construtor, que recebe como parâmetro o caractere do jogador, o método `getVitorias` que retorna a variável privada de vitórias (encapsulamento) e `ganhar`, que adiciona uma vitória.
 
 ### JogadorX.java:
 
