@@ -4,6 +4,18 @@ Grupo: Lucas Garrafielo
 
 Foi utilizado na construção do código a ferramenta Gradle, todavia, é possível compilar o código manualmente também.
 
+Para iniciar o programa utilizando o Gradle, basta executar:
+
+No Linux:
+```shell 
+sudo chmod +x gradlew # dar permissão de execução para o script
+./gradlew run
+```
+No Windows:
+```shell
+gradlew.bat run
+```
+
 ## Introdução
 
 O projeto escolhido foi o de jogo da velha. Mesmo sendo um projeto simples, tentei aplicar o máximo dos conceitos requisitados no arquivo de orientações.
